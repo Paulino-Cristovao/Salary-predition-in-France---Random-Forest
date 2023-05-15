@@ -1,0 +1,271 @@
+,avg_salary,company,job title,location,company_type,company_sector,age,max_salary,title
+0,43.0,Publicis Sapient,Data Scientist - Senior Manager (H/F),Paris,Company - Public,Management & Consulting,33,47,Senior
+1,43.0,TotalEnergies,Data Scientist IA débutant F/H - Prédiction des ressources en métaux dans les eaux souterraines par Intelligence Artificielle,Pau,Company - Public,"Energy, Mining & Utilities",99,47,junior
+2,43.0,GROUPE LIMAGRAIN,Data Analyst (H/F),Saint-Beauzire,Company - Private,Agriculture,58,47,junior
+3,43.0,Matmut,Data scientist F/H,Rouen,Company - Private,Insurance,62,47,junior
+4,43.0,Inetum,Data Analyst H/F,Lille,Company - Private,Information Technology,53,47,junior
+5,43.0,Damart,Data analyst junior - H/F,Roubaix,Unknown,Manufacturing,-1,47,junior
+6,43.0,Onera,CHERCHEUR EN SCIENCE DES DONNEES POUR L’AERODYNAMIQUE H/F,Bordeaux,Company - Public,Aerospace & Defense,77,47,junior
+7,43.0,innovation e-Santé Sud ieSS,Data Scientist H/F,Hyères,-1,-1,-1,47,junior
+8,43.0,CS GROUP,Chef de projet / Coordinateur Data Science - F/H,Toulouse,Company - Private,Information Technology,55,47,junior
+9,43.0,Inetum,Data Analyst SAS / Hadoop H/F,Brest,Company - Private,Information Technology,53,47,junior
+10,43.0,Inetum,Data Analyst Industrie 4.0 H/F,Toulouse,Company - Private,Information Technology,53,47,junior
+11,43.0,LIMAGRAIN EUROPE SAS,Analyste de données en sélection Maïs (H/F),Ennezat,Company - Private,Agriculture,58,47,junior
+12,43.0,Atmosphères,Data Analyst H/F,Bois-d'Arcy,Company - Private,Human Resources & Staffing,21,47,junior
+13,43.0,TOYOTA MATERIAL HANDLING FRANCE,Data Analyst CRM,Bussy-Saint-Georges,Company - Private,"Construction, Repair & Maintenance Services",56,47,junior
+14,43.0,Damart,Data analyst senior - H/F,Roubaix,Unknown,Manufacturing,-1,47,junior
+15,43.0,CGI FINANCE,Data Scientist H/F,France,Company - Private,Financial Services,72,47,junior
+16,43.0,L2C,Data Analyst - Editeur de logiciels Big data leader sur son domaine - Fxie + bonus déplafonné - H/F,Paris,Company - Public,Management & Consulting,55,47,junior
+17,43.0,Peroptyx,Analyste de données H/F,Paris,Company - Private,Information Technology,5,47,junior
+18,43.0,Teleperformance Portugal,Data analyst campagne publicitaire Pinterest à Lisbonne (f/h/x),France,Company - Private,Telecommunications,45,47,junior
+19,43.0,Procter & Gamble,Data Analyst,Paris,Company - Public,Manufacturing,186,47,junior
+20,43.0,CS GROUP,Ingénieur Data Scientist expérimenté - F/H,Toulouse,Company - Private,Information Technology,55,47,junior
+21,43.0,Caisse d'Epargne Ile de France,Data Analyste H/F,Paris,Company - Public,Financial Services,14,47,junior
+22,43.0,FED Finance,DATA ANALYST,France,Company - Private,Human Resources & Staffing,13,47,junior
+23,43.0,Seyos,Data Analyst - H/F,Suresnes,Company - Private,Human Resources & Staffing,9,47,junior
+24,43.0,Française des Jeux,Data Analyst F/H,Boulogne-Billancourt,Company - Private,"Arts, Entertainment & Recreation",90,47,junior
+25,43.0,MAIF,Data Scientist - Computer Vision - NIORT ou PARIS H/F,Paris,Company - Private,Insurance,89,47,junior
+26,43.0,ALEIA,Data scientist,Paris,-1,-1,-1,47,junior
+27,43.0,Saint Gobain,Data & Analytics Security Officer,Courbevoie,Company - Private,"Construction, Repair & Maintenance Services",358,47,junior
+28,43.0,FIDUCIAL,Data Analyst - H/F,Lyon,Company - Private,Management & Consulting,53,47,junior
+29,43.0,MJV Technology & Innovation,Data Analyst,Lille,Company - Private,Information Technology,26,47,junior
+30,67.5,Française des Jeux,Data Analyst F/H,Boulogne-Billancourt,Company - Private,"Arts, Entertainment & Recreation",90,75,junior
+31,67.5,TotalEnergies,Data Scientist ML,Paris,Company - Public,"Energy, Mining & Utilities",99,75,junior
+32,67.5,Cognira,Junior Data Scientist,Lille,Company - Private,Information Technology,8,75,junior
+33,67.5,HURRYMAN,Consultant Senior / Manager : Data Analyst (H/F),Paris,Company - Private,Human Resources & Staffing,8,75,Senior
+34,67.5,Le Groupe La Poste,Data Analyst chargé d'études stratégiques,Paris,Company - Private,Financial Services,32,75,junior
+35,67.5,Le Groupe La Poste,Data Analyste,Saint-Denis,Company - Private,Financial Services,32,75,junior
+36,67.5,Numberly,Data Scientist,Paris,Company - Public,Media & Communication,23,75,junior
+37,67.5,FED IT,Analyste Données - PowerBI (H/F),Guyancourt,Company - Private,Human Resources & Staffing,13,75,junior
+38,67.5,Sightengine,"Computer Vision ML, Data scientist",Télétravail,Company - Private,-1,-1,75,junior
+39,67.5,FED Finance,DATA ANALYST (études stratégiques) H/F,Paris,Company - Private,Human Resources & Staffing,13,75,junior
+40,67.5,MGEN,Data Analyst H/F,Paris,Self-employed,Management & Consulting,77,75,junior
+41,67.5,Numberly,Data Analyst Programmatique,Paris,Company - Public,Media & Communication,23,75,junior
+42,67.5,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,75,junior
+43,67.5,Novencia,DATA SCIENTIST (F/H),Lyon,Company - Private,"Construction, Repair & Maintenance Services",23,75,junior
+44,67.5,Shift Technology,Graduate Data Scientist,Paris,Company - Private,Information Technology,9,75,junior
+45,67.5,CS Group,Data Scientist / Data Engineer confirmé - F/H,Le Plessis-Robinson,Company - Private,Information Technology,55,75,junior
+46,67.5,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,75,junior
+47,67.5,Atos,Data scientist experimenté H/F,Bezons,Company - Public,Information Technology,26,75,junior
+48,67.5,Rubix,Pricing Data Analyst - Lyon,Lyon,Company - Private,Information Technology,14,75,junior
+49,67.5,SumUp,Product Data Analyst,Paris,Company - Private,Financial Services,11,75,junior
+50,67.5,Artefact,Data Scientist,Paris,Company - Private,Management & Consulting,9,75,junior
+51,67.5,Licorne Society,Data Analyst - startups,Paris,Company - Private,-1,-1,75,junior
+52,67.5,Clarins,CDD – CRM Data Analyst,Neuilly-sur-Seine,Company - Private,Manufacturing,69,75,junior
+53,67.5,Nature et découvertes,Data Analyst F/H,Versailles,Unknown,Retail & Wholesale,33,75,junior
+54,67.5,McKinsey & Company,"Data Scientist (full time, all seniority levels) - QuantumBlack",Paris,Company - Private,Management & Consulting,14,75,junior
+55,67.5,Société Générale,Data Scientist-(H/F),Paris,Company - Private,Financial Services,159,75,junior
+56,67.5,Société Générale,Data Analyst-(H/F),Paris,Company - Private,Financial Services,159,75,junior
+57,67.5,MAIF,DATA ANALYST H/F - Pilotage du fonctionnement de l'Entreprise - CDI,Niort,Company - Private,Insurance,89,75,junior
+58,67.5,Breega,Environmental Data Scientist @Carbon Maps,Paris,Company - Private,Financial Services,10,75,junior
+59,67.5,Capgemini,Data Scientist H/F,Paris,Company - Public,Information Technology,56,75,junior
+60,50.0,Numberly,Data Analyst Programmatique,Paris,Company - Public,Media & Communication,23,60,junior
+61,50.0,Insitoo,Data Analyst Junior (H/F),Lille,Company - Private,Human Resources & Staffing,16,60,junior
+62,50.0,Rubix,Pricing Data Analyst - Lyon,Lyon,Company - Private,Information Technology,14,60,junior
+63,50.0,Numberly,Marketing Data Analyst,Paris,Company - Public,Media & Communication,23,60,junior
+64,50.0,Licorne Society,Data Analyst - startups,Paris,Company - Private,-1,-1,60,junior
+65,50.0,Numberly,Data Analyst Programmatic,Paris,Company - Public,Media & Communication,23,60,junior
+66,50.0,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,60,junior
+67,50.0,Natixis,Data Analyst (F/H) - Financing Global Trade Finance & BI,Charenton-le-Pont,Company - Private,Financial Services,17,60,junior
+68,50.0,Clarins,CDD – CRM Data Analyst,Neuilly-sur-Seine,Company - Private,Manufacturing,69,60,junior
+69,50.0,McKinsey & Company,"Data Scientist (full time, all seniority levels) - QuantumBlack",Paris,Company - Private,Management & Consulting,14,60,junior
+70,50.0,EY,Consultant(e) / Manager - Data Analytics & Automatisation - FAAS - Lille - H/F,Lille,Unknown,-1,-1,60,junior
+71,50.0,APRIL,Data Scientist,Lyon,Company - Public,Insurance,25,60,junior
+72,50.0,AXA,Business Data Analyst - Operations,Puteaux,Company - Private,Insurance,38,60,junior
+73,50.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,60,junior
+74,50.0,1Dsolutions,Consultant Data analyst,Paris,-1,-1,-1,60,junior
+75,50.0,Thales,Ingénieur Data Analyst F/H,Lille,Company - Public,Aerospace & Defense,23,60,junior
+76,50.0,Canal Plus,CDI - data Analyst,Puteaux,Company - Public,Media & Communication,39,60,junior
+77,50.0,AUCHAN RETAIL SERVICES,Data Analyst F/H,Villeneuve-d'Ascq,Company - Private,Retail & Wholesale,42,60,junior
+78,50.0,Nature et découvertes,Data Analyst F/H,Versailles,Unknown,Retail & Wholesale,33,60,junior
+79,50.0,EY,Consultant Data Analyst Débutant F/H - Septembre 2022,Paris,Unknown,-1,-1,60,junior
+80,50.0,Natixis,Data Analyst - Trade Finance & BI (F/H),Charenton-le-Pont,Company - Private,Financial Services,17,60,junior
+81,50.0,CGI FINANCE,Product Data Analyst Senior,Lille,Company - Private,Financial Services,72,60,Senior
+82,50.0,mediametrie,CDI - Data Analyst/Scientist F/H,Paris,Company - Private,Media & Communication,38,60,junior
+83,50.0,Mirakl - French,Data Analyst,Paris,Company - Private,Information Technology,12,60,junior
+84,50.0,FED IT,Analyste Données - PowerBI (H/F),Guyancourt,Company - Private,Human Resources & Staffing,13,60,junior
+85,50.0,SumUp,Product Data Analyst,Paris,Company - Private,Financial Services,11,60,junior
+86,50.0,Akkodis,Ingénieur Data Scientist Junior H/F,Paris,Subsidiary or Business Segment,Human Resources & Staffing,29,60,junior
+87,50.0,Moët Hennessy Wines & Spirits,Business Data Analyst,Paris,Subsidiary or Business Segment,Manufacturing,258,60,junior
+88,50.0,Nexton Consulting FR,Business Analyst Data H/F,Paris,Company - Private,Management & Consulting,12,60,junior
+89,50.0,Rubix,Data Analyst - Lyon,Lyon,Company - Private,-1,-1,60,junior
+90,50.0,Natixis,Data Analyst - Trade Finance & BI (F/H),Charenton-le-Pont,Company - Private,Financial Services,17,60,junior
+91,50.0,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,60,junior
+92,50.0,Numberly,Marketing Data Analyst,Paris,Company - Public,Media & Communication,23,60,junior
+93,50.0,EY,Consultant(e) / Manager - Data Analytics & Automatisation - FAAS - Lille - H/F,Lille,Unknown,-1,-1,60,junior
+94,50.0,CGI FINANCE,Product Data Analyst Senior,Lille,Company - Private,Financial Services,72,60,Senior
+95,50.0,APRIL,Data Scientist,Lyon,Company - Public,Insurance,25,60,junior
+96,50.0,Clarins,CDD – CRM Data Analyst,Neuilly-sur-Seine,Company - Private,Manufacturing,69,60,junior
+97,50.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,60,junior
+98,50.0,Numberly,Data Analyst Programmatic,Paris,Company - Public,Media & Communication,23,60,junior
+99,50.0,SumUp,Product Data Analyst,Paris,Company - Private,Financial Services,11,60,junior
+100,50.0,Natixis,Business Analyst - IT Financing Data & BI (F/H) CIO CIB,Paris,Company - Private,Financial Services,17,60,junior
+101,50.0,Banque Populaire de Val de France,Data Analyst Senior H/F,Montigny-le-Bretonneux,Company - Public,Financial Services,14,60,Senior
+102,50.0,ENERCON,Data Analyst (H/F),Nantes,Company - Private,"Energy, Mining & Utilities",39,60,junior
+103,50.0,Artefact,Data Scientist,Paris,Company - Private,Management & Consulting,9,60,junior
+104,50.0,Akkodis,Ingénieur Data Scientist Junior H/F,Paris,Subsidiary or Business Segment,Human Resources & Staffing,29,60,junior
+105,50.0,AXA,Business Data Analyst - Operations,Puteaux,Company - Private,Insurance,38,60,junior
+106,50.0,EssenceMediacom,Data Analyst,Paris,Company - Private,Media & Communication,37,60,junior
+107,50.0,Rubix,Data Analyst - Lyon,Lyon,Company - Private,-1,-1,60,junior
+108,50.0,Thales,Ingénieur Data Analyst F/H,Lille,Company - Public,Aerospace & Defense,23,60,junior
+109,50.0,Framatome,Ingénieur R&D en matériaux - Data Science/Expérimentation F/H,Montbard,Company - Private,-1,-1,60,junior
+110,50.0,Talent Solutions,Data Analyst H/F,Lyon,Subsidiary or Business Segment,Human Resources & Staffing,34,60,junior
+111,50.0,Shift Technology,Graduate Data Scientist,Paris,Company - Private,Information Technology,9,60,junior
+112,50.0,Insitoo,Data Scientist Sénior (H/F),Lyon,Company - Private,Human Resources & Staffing,16,60,junior
+113,50.0,EY,Consultant Data Analyst Débutant F/H - Septembre 2022,Paris,Unknown,-1,-1,60,junior
+114,50.0,mediametrie,CDI - Data Analyst/Scientist F/H,Paris,Company - Private,Media & Communication,38,60,junior
+115,50.0,Visuary,Data Scientist,Paris,Company - Private,-1,-1,60,junior
+116,50.0,John Cockerill,Data Scientist,Aspach-le-Haut,Company - Private,"Construction, Repair & Maintenance Services",206,60,junior
+117,50.0,Mirakl - French,Data Analyst,Paris,Company - Private,Information Technology,12,60,junior
+118,50.0,Cafeyn,Data Product Analyst,Paris,Company - Private,Media & Communication,16,60,junior
+119,50.0,Pennylane,Data Analyst (remote),Paris,Company - Private,Information Technology,3,60,junior
+120,55.0,Numberly,Marketing Data Analyst,Paris,Company - Public,Media & Communication,23,65,junior
+121,55.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,65,junior
+122,55.0,Numberly,Data Analyst Programmatic,Paris,Company - Public,Media & Communication,23,65,junior
+123,55.0,Framatome,Ingénieur R&D en matériaux - Data Science/Expérimentation F/H,Montbard,Company - Private,-1,-1,65,junior
+124,55.0,Clarins,CDD – CRM Data Analyst,Neuilly-sur-Seine,Company - Private,Manufacturing,69,65,junior
+125,55.0,AXA,Business Data Analyst - Operations,Puteaux,Company - Private,Insurance,38,65,junior
+126,55.0,SumUp,Product Data Analyst,Paris,Company - Private,Financial Services,11,65,junior
+127,55.0,Thales,Ingénieur Data Analyst F/H,Lille,Company - Public,Aerospace & Defense,23,65,junior
+128,55.0,CGI FINANCE,Product Data Analyst Senior,Lille,Company - Private,Financial Services,72,65,Senior
+129,55.0,APRIL,Data Scientist,Lyon,Company - Public,Insurance,25,65,junior
+130,55.0,EY,Consultant(e) / Manager - Data Analytics & Automatisation - FAAS - Lille - H/F,Lille,Unknown,-1,-1,65,junior
+131,55.0,EY,Consultant Data Analyst Débutant F/H - Septembre 2022,Paris,Unknown,-1,-1,65,junior
+132,55.0,mediametrie,CDI - Data Analyst/Scientist F/H,Paris,Company - Private,Media & Communication,38,65,junior
+133,55.0,Mirakl - French,Data Analyst,Paris,Company - Private,Information Technology,12,65,junior
+134,55.0,Insitoo,Data Scientist Sénior (H/F),Lyon,Company - Private,Human Resources & Staffing,16,65,junior
+135,55.0,Generali France,DATA SCIENTIST,Saint-Denis,Company - Public,Insurance,192,65,junior
+136,55.0,Rubix,Data Analyst - Lyon,Lyon,Company - Private,-1,-1,65,junior
+137,55.0,Cafeyn,Data Product Analyst,Paris,Company - Private,Media & Communication,16,65,junior
+138,55.0,Artefact,Data Scientist,Paris,Company - Private,Management & Consulting,9,65,junior
+139,55.0,Akkodis,Ingénieur Data Scientist Junior H/F,Paris,Subsidiary or Business Segment,Human Resources & Staffing,29,65,junior
+140,55.0,Moët Hennessy Wines & Spirits,Business Data Analyst,Paris,Subsidiary or Business Segment,Manufacturing,258,65,junior
+141,55.0,Nexton Consulting FR,Business Analyst Data H/F,Paris,Company - Private,Management & Consulting,12,65,junior
+142,55.0,Air France-KLM,DATA ANALYST SUPPLY CHAIN H/F,Roissy-en-France,Company - Private,Transportation & Logistics,90,65,junior
+143,55.0,NEO SOFT,Data Analyst H/F,Lyon,Company - Private,Information Technology,18,65,junior
+144,55.0,E.Leclerc,Data Analyst - H/F,Ivry-sur-Seine,Company - Private,Retail & Wholesale,-1,65,junior
+145,55.0,Pennylane,Data Analyst (remote),Paris,Company - Private,Information Technology,3,65,junior
+146,55.0,Groupe Rocher,Data Scientist Projets,Issy-les-Moulineaux,Private Practice / Firm,Retail & Wholesale,64,65,junior
+147,55.0,Upfluence,Data Scientist F/H - CDI - Lyon,Lyon,Company - Private,Media & Communication,10,65,junior
+148,55.0,Insitoo,Data Analyst (H/F),Lyon,Company - Private,Human Resources & Staffing,16,65,junior
+149,55.0,GRDF,Data Analyst (h/f),Douai,Unknown,"Energy, Mining & Utilities",16,65,junior
+150,55.0,Numberly,Data Analyst Programmatic,Paris,Company - Public,Media & Communication,23,65,junior
+151,55.0,Numberly,Marketing Data Analyst,Paris,Company - Public,Media & Communication,23,65,junior
+152,55.0,SumUp,Product Data Analyst,Paris,Company - Private,Financial Services,11,65,junior
+153,55.0,Clarins,CDD – CRM Data Analyst,Neuilly-sur-Seine,Company - Private,Manufacturing,69,65,junior
+154,55.0,EssenceMediacom,Data Analyst,Paris,Company - Private,Media & Communication,37,65,junior
+155,55.0,Rubix,Data Analyst - Lyon,Lyon,Company - Private,-1,-1,65,junior
+156,55.0,Framatome,Ingénieur R&D en matériaux - Data Science/Expérimentation F/H,Montbard,Company - Private,-1,-1,65,junior
+157,55.0,EY,Consultant(e) / Manager - Data Analytics & Automatisation - FAAS - Lille - H/F,Lille,Unknown,-1,-1,65,junior
+158,55.0,APRIL,Data Scientist,Lyon,Company - Public,Insurance,25,65,junior
+159,55.0,Generali France,DATA SCIENTIST,Saint-Denis,Company - Public,Insurance,192,65,junior
+160,55.0,Shift Technology,Graduate Data Scientist,Paris,Company - Private,Information Technology,9,65,junior
+161,55.0,Mirakl - French,Data Analyst,Paris,Company - Private,Information Technology,12,65,junior
+162,55.0,CARSO-LSEHL,DATA ANALYST POWER BI,Vénissieux,Company - Private,Pharmaceutical & Biotechnology,-1,65,junior
+163,55.0,Cafeyn,Data Product Analyst,Paris,Company - Private,Media & Communication,16,65,junior
+164,55.0,Upfluence,Data Scientist F/H - CDI - Lyon,Lyon,Company - Private,Media & Communication,10,65,junior
+165,55.0,Insitoo,Data Scientist Sénior (H/F),Lyon,Company - Private,Human Resources & Staffing,16,65,junior
+166,55.0,EY,Consultant Data Analyst Débutant F/H - Septembre 2022,Paris,Unknown,-1,-1,65,junior
+167,55.0,CGI FINANCE,Product Data Analyst Senior,Lille,Company - Private,Financial Services,72,65,Senior
+168,55.0,Moët Hennessy Wines & Spirits,Business Data Analyst,Paris,Subsidiary or Business Segment,Manufacturing,258,65,junior
+169,55.0,Nielsen,Sports Media Data Analyst,Bezons,Company - Public,Information Technology,100,65,junior
+170,55.0,Akkodis,Ingénieur Data Scientist Junior H/F,Paris,Subsidiary or Business Segment,Human Resources & Staffing,29,65,junior
+171,55.0,Thales,Ingénieur Data Analyst F/H,Lille,Company - Public,Aerospace & Defense,23,65,junior
+172,55.0,Schneider Electric,Supply Chain Data Analytics Leader,Grenoble,Company - Public,"Energy, Mining & Utilities",187,65,junior
+173,55.0,digiRocks,Data Analyst Junior,Paris,Company - Public,-1,-1,65,junior
+174,55.0,Visuary,Data Scientist,Paris,Company - Private,-1,-1,65,junior
+175,55.0,Breega,Environmental Data Scientist @Carbon Maps,Paris,Company - Private,Financial Services,10,65,junior
+176,55.0,Pennylane,Data Analyst (remote),Paris,Company - Private,Information Technology,3,65,junior
+177,55.0,MBR Partners,AI/ML Data Scientist (Telecoms),Paris,Company - Private,-1,-1,65,junior
+178,55.0,Stellantis,Data Scientist H/F,Poissy,Company - Private,Manufacturing,2,65,junior
+179,55.0,"INRAE - Institut national de recherche pour l’agriculture, l’alimentation et l’environnement",Data Scientist (H/F),Jouy-en-Josas,-1,-1,-1,65,junior
+180,50.0,Publicis Sapient,Data Scientist - Senior Manager (H/F),Paris,Company - Public,Management & Consulting,33,55,Senior
+181,50.0,TotalEnergies,Data Scientist IA débutant F/H - Prédiction des ressources en métaux dans les eaux souterraines par Intelligence Artificielle,Pau,Company - Public,"Energy, Mining & Utilities",99,55,junior
+182,50.0,Damart,Data analyst junior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+183,50.0,Inetum,Data Analyst H/F,Lille,Company - Private,Information Technology,53,55,junior
+184,50.0,MJV Technology & Innovation,Data Analyst,Lille,Company - Private,Information Technology,26,55,junior
+185,50.0,Matmut,Data scientist F/H,Rouen,Company - Private,Insurance,62,55,junior
+186,50.0,GROUPE LIMAGRAIN,Data Analyst (H/F),Saint-Beauzire,Company - Private,Agriculture,58,55,junior
+187,50.0,Onera,CHERCHEUR EN SCIENCE DES DONNEES POUR L’AERODYNAMIQUE H/F,Bordeaux,Company - Public,Aerospace & Defense,77,55,junior
+188,50.0,Le Groupe La Poste,Data Analyst chargé d'études stratégiques,Paris,Company - Private,Financial Services,32,55,junior
+189,50.0,Cognira,Junior Data Scientist,Lille,Company - Private,Information Technology,8,55,junior
+190,50.0,CS GROUP,Chef de projet / Coordinateur Data Science - F/H,Toulouse,Company - Private,Information Technology,55,55,junior
+191,50.0,FED Finance,DATA ANALYST,France,Company - Private,Human Resources & Staffing,13,55,junior
+192,50.0,Damart,Data analyst senior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+193,50.0,Inetum,Data Analyst SAS / Hadoop H/F,Brest,Company - Private,Information Technology,53,55,junior
+194,50.0,Numberly,Data Scientist,Paris,Company - Public,Media & Communication,23,55,junior
+195,50.0,LIMAGRAIN EUROPE SAS,Analyste de données en sélection Maïs (H/F),Ennezat,Company - Private,Agriculture,58,55,junior
+196,50.0,TotalEnergies,Data Scientist ML,Paris,Company - Public,"Energy, Mining & Utilities",99,55,junior
+197,50.0,ALEIA,Data scientist,Paris,-1,-1,-1,55,junior
+198,50.0,Française des Jeux,Data Analyst F/H,Boulogne-Billancourt,Company - Private,"Arts, Entertainment & Recreation",90,55,junior
+199,50.0,MAIF,Data Scientist - Computer Vision - NIORT ou PARIS H/F,Paris,Company - Private,Insurance,89,55,junior
+200,50.0,Inetum,Data Analyst Industrie 4.0 H/F,Toulouse,Company - Private,Information Technology,53,55,junior
+201,50.0,TOYOTA MATERIAL HANDLING FRANCE,Data Analyst CRM,Bussy-Saint-Georges,Company - Private,"Construction, Repair & Maintenance Services",56,55,junior
+202,50.0,innovation e-Santé Sud ieSS,Data Scientist H/F,Hyères,-1,-1,-1,55,junior
+203,50.0,Insitoo,Data Analyst Junior (H/F),Lille,Company - Private,Human Resources & Staffing,16,55,junior
+204,50.0,Licorne Society,Data Analyst - startups,Paris,Company - Private,-1,-1,55,junior
+205,50.0,AUSY,Data Analyst,Wasquehal,Company - Private,Management & Consulting,34,55,junior
+206,50.0,CGI FINANCE,Data Scientist H/F,France,Company - Private,Financial Services,72,55,junior
+207,50.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,55,junior
+208,50.0,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,55,junior
+209,50.0,Numberly,Data Analyst Programmatique,Paris,Company - Public,Media & Communication,23,55,junior
+210,50.0,Publicis Sapient,Data Scientist - Senior Manager (H/F),Paris,Company - Public,Management & Consulting,33,55,Senior
+211,50.0,TotalEnergies,Data Scientist IA débutant F/H - Prédiction des ressources en métaux dans les eaux souterraines par Intelligence Artificielle,Pau,Company - Public,"Energy, Mining & Utilities",99,55,junior
+212,50.0,Damart,Data analyst junior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+213,50.0,Inetum,Data Analyst H/F,Lille,Company - Private,Information Technology,53,55,junior
+214,50.0,MJV Technology & Innovation,Data Analyst,Lille,Company - Private,Information Technology,26,55,junior
+215,50.0,Onera,CHERCHEUR EN SCIENCE DES DONNEES POUR L’AERODYNAMIQUE H/F,Bordeaux,Company - Public,Aerospace & Defense,77,55,junior
+216,50.0,Matmut,Data scientist F/H,Rouen,Company - Private,Insurance,62,55,junior
+217,50.0,Inetum,Data Analyst SAS / Hadoop H/F,Brest,Company - Private,Information Technology,53,55,junior
+218,50.0,GROUPE LIMAGRAIN,Data Analyst (H/F),Saint-Beauzire,Company - Private,Agriculture,58,55,junior
+219,50.0,Le Groupe La Poste,Data Analyst chargé d'études stratégiques,Paris,Company - Private,Financial Services,32,55,junior
+220,50.0,LIMAGRAIN EUROPE SAS,Analyste de données en sélection Maïs (H/F),Ennezat,Company - Private,Agriculture,58,55,junior
+221,50.0,CS GROUP,Chef de projet / Coordinateur Data Science - F/H,Toulouse,Company - Private,Information Technology,55,55,junior
+222,50.0,Cognira,Junior Data Scientist,Lille,Company - Private,Information Technology,8,55,junior
+223,50.0,Numberly,Data Scientist,Paris,Company - Public,Media & Communication,23,55,junior
+224,50.0,Damart,Data analyst senior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+225,50.0,FED Finance,DATA ANALYST,France,Company - Private,Human Resources & Staffing,13,55,junior
+226,50.0,Inetum,Data Analyst Industrie 4.0 H/F,Toulouse,Company - Private,Information Technology,53,55,junior
+227,50.0,ALEIA,Data scientist,Paris,-1,-1,-1,55,junior
+228,50.0,AUSY,Data Analyst,Wasquehal,Company - Private,Management & Consulting,34,55,junior
+229,50.0,Insitoo,Data Analyst Junior (H/F),Lille,Company - Private,Human Resources & Staffing,16,55,junior
+230,50.0,Le Groupe La Poste,Data Analyste,Saint-Denis,Company - Private,Financial Services,32,55,junior
+231,50.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,55,junior
+232,50.0,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,55,junior
+233,50.0,TOYOTA MATERIAL HANDLING FRANCE,Data Analyst CRM,Bussy-Saint-Georges,Company - Private,"Construction, Repair & Maintenance Services",56,55,junior
+234,50.0,innovation e-Santé Sud ieSS,Data Scientist H/F,Hyères,-1,-1,-1,55,junior
+235,50.0,Numberly,Data Analyst Programmatique,Paris,Company - Public,Media & Communication,23,55,junior
+236,50.0,FED Finance,DATA ANALYST (études stratégiques) H/F,Paris,Company - Private,Human Resources & Staffing,13,55,junior
+237,50.0,Sightengine,"Computer Vision ML, Data scientist",Télétravail,Company - Private,-1,-1,55,junior
+238,50.0,Licorne Society,Data Analyst - startups,Paris,Company - Private,-1,-1,55,junior
+239,50.0,HURRYMAN,Consultant Senior / Manager : Data Analyst (H/F),Paris,Company - Private,Human Resources & Staffing,8,55,Senior
+240,50.0,Publicis Sapient,Data Scientist - Senior Manager (H/F),Paris,Company - Public,Management & Consulting,33,55,Senior
+241,50.0,TotalEnergies,Data Scientist IA débutant F/H - Prédiction des ressources en métaux dans les eaux souterraines par Intelligence Artificielle,Pau,Company - Public,"Energy, Mining & Utilities",99,55,junior
+242,50.0,Damart,Data analyst junior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+243,50.0,Inetum,Data Analyst H/F,Lille,Company - Private,Information Technology,53,55,junior
+244,50.0,Matmut,Data scientist F/H,Rouen,Company - Private,Insurance,62,55,junior
+245,50.0,Onera,CHERCHEUR EN SCIENCE DES DONNEES POUR L’AERODYNAMIQUE H/F,Bordeaux,Company - Public,Aerospace & Defense,77,55,junior
+246,50.0,CS GROUP,Chef de projet / Coordinateur Data Science - F/H,Toulouse,Company - Private,Information Technology,55,55,junior
+247,50.0,Inetum,Data Analyst SAS / Hadoop H/F,Brest,Company - Private,Information Technology,53,55,junior
+248,50.0,LIMAGRAIN EUROPE SAS,Analyste de données en sélection Maïs (H/F),Ennezat,Company - Private,Agriculture,58,55,junior
+249,50.0,GROUPE LIMAGRAIN,Data Analyst (H/F),Saint-Beauzire,Company - Private,Agriculture,58,55,junior
+250,50.0,MJV Technology & Innovation,Data Analyst,Lille,Company - Private,Information Technology,26,55,junior
+251,50.0,Damart,Data analyst senior - H/F,Roubaix,Unknown,Manufacturing,-1,55,junior
+252,50.0,Inetum,Data Analyst Industrie 4.0 H/F,Toulouse,Company - Private,Information Technology,53,55,junior
+253,50.0,innovation e-Santé Sud ieSS,Data Scientist H/F,Hyères,-1,-1,-1,55,junior
+254,50.0,INFORMATIS,Analyste DATA,Nogent-sur-Seine,Company - Private,-1,52,55,junior
+255,50.0,Numberly,Data Scientist,Paris,Company - Public,Media & Communication,23,55,junior
+256,50.0,TOYOTA MATERIAL HANDLING FRANCE,Data Analyst CRM,Bussy-Saint-Georges,Company - Private,"Construction, Repair & Maintenance Services",56,55,junior
+257,50.0,Numberly,Data Analyst Programmatique,Paris,Company - Public,Media & Communication,23,55,junior
+258,50.0,Cognira,Junior Data Scientist,Lille,Company - Private,Information Technology,8,55,junior
+259,50.0,HURRYMAN,Consultant Senior / Manager : Data Analyst (H/F),Paris,Company - Private,Human Resources & Staffing,8,55,Senior
+260,50.0,Le Groupe La Poste,Data Analyst Export,Paris,Company - Private,Financial Services,32,55,junior
+261,50.0,ALEIA,Data scientist,Paris,-1,-1,-1,55,junior
+262,50.0,FED Finance,DATA ANALYST (études stratégiques) H/F,Paris,Company - Private,Human Resources & Staffing,13,55,junior
+263,50.0,CGI FINANCE,Data Scientist H/F,France,Company - Private,Financial Services,72,55,junior
+264,50.0,Insitoo,Data Analyst Junior (H/F),Lille,Company - Private,Human Resources & Staffing,16,55,junior
+265,50.0,AUSY,Data Analyst,Wasquehal,Company - Private,Management & Consulting,34,55,junior
+266,50.0,Sightengine,"Computer Vision ML, Data scientist",Télétravail,Company - Private,-1,-1,55,junior
+267,50.0,MAIF,Data Scientist - Computer Vision - NIORT ou PARIS H/F,Paris,Company - Private,Insurance,89,55,junior
+268,50.0,Peroptyx,Analyste de données H/F,Paris,Company - Private,Information Technology,5,55,junior
+269,50.0,Atmosphères,Data Analyst H/F,Bois-d'Arcy,Company - Private,Human Resources & Staffing,21,55,junior
